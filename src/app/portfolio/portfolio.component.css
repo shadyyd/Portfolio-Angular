@@ -1,0 +1,24 @@
+.secc {
+  padding: 50px 0px;
+}
+.card-custom {
+  background-color: #6c757d; /* Change the color as needed */
+  color: white;
+  padding: 85px 20px;
+  text-align: center;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card-custom h5 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+.card-custom hr {
+  height: 1px;
+  background: #ffffff;
+  margin: 10px auto;
+  width: 60%;
+}

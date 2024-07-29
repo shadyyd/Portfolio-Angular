@@ -1,0 +1,55 @@
+/* .skills {
+  height: 80vh;
+} */
+.secc {
+  width: 70%;
+}
+.my-focus {
+  width: 100%;
+}
+.focus-title {
+  font-size: 24px;
+  font-weight: bold;
+  /* margin-bottom: 20px; */
+  text-align: center;
+}
+.focus-subtitle {
+  font-size: 20px;
+
+  margin-bottom: 20px;
+  padding-left: 25px;
+}
+.skill {
+  margin-bottom: 10px;
+}
+.progress {
+  height: 25px;
+  background-color: #ccc;
+}
+.progress-bar {
+  background-color: #555;
+}
+.progress-bar-html {
+  width: 95%;
+}
+.progress-bar-css {
+  width: 90%;
+}
+.progress-bar-js {
+  width: 80%;
+}
+.progress-bar-react {
+  width: 75%;
+}
+.progress-bar-photoshop {
+  width: 70%;
+}
+.progress-bar-adobe-xd {
+  width: 65%;
+}
+.progress-bar-nodejs {
+  width: 60%;
+}
+.progress-bar-wordpress {
+  width: 50%;
+}
